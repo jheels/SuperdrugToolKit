@@ -50,7 +50,7 @@ The bot operates using Discord's slash commands method. There are currently 2 co
 
 A quick method to scrape necessary data using the product's SKU. Information can be summarised in a snippet below
 
-<img src="image-1.png" alt="Discord embed containing important product information scraped from a SKU" width="60%" height="40%"/>
+<img src="https://cdn.discordapp.com/attachments/1133103822735155251/1141497658477912104/image.png" alt="Discord embed containing important product information scraped from a SKU" width="60%" height="40%"/>
 
 Note _SD_ stands for Student Discount [Price].
 
